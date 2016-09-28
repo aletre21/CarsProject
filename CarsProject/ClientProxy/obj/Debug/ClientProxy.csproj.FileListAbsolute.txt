@@ -1,0 +1,13 @@
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\ClientProxy.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\ClientProxy.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\CarsService.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\AutoMapper.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\CarsService.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\CarsService.Data.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\AutoMapper.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\obj\Debug\ClientProxy.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\obj\Debug\ClientProxy.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\ClientProxy\obj\Debug\ClientProxy.pdb

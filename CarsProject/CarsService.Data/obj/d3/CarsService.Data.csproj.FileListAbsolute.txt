@@ -1,0 +1,9 @@
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\CarsService.Data.dll.config
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\CarsService.Data.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\EntityFramework.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\EntityFramework.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\d3\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\obj\d3\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\obj\d3\CarsService.Data.pdb

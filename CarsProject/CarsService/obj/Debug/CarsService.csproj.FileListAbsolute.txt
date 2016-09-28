@@ -1,0 +1,12 @@
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\CarsService.dll.config
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\CarsService.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\CarsService.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\AutoMapper.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\CarsService.Data.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\AutoMapper.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\obj\Debug\CarsService.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\obj\Debug\CarsService.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService\obj\Debug\CarsService.pdb

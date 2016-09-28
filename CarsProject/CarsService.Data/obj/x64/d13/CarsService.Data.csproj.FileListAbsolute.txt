@@ -1,0 +1,10 @@
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\CarsService.Data.dll.config
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\CarsService.Data.pdb
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\EntityFramework.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\EntityFramework.SqlServer.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\EntityFramework.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\bin\x64\d13\EntityFramework.SqlServer.xml
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\obj\x64\d13\CarsService.Data.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\obj\x64\d13\CarsService.Data.dll
+C:\Users\Aleksandra\Documents\TFS\CarsProject\CarsService.Data\obj\x64\d13\CarsService.Data.pdb
